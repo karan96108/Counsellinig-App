@@ -212,7 +212,8 @@ const ContactSection = () => {
                 <p className="text-sm text-counseling-700">
                   Available for consultation: <br />
                   Monday-Friday: 9:00 AM - 6:00 PM <br />
-                  Saturday: 10:00 AM - 2:00 PM
+                  Saturday: 10:00 AM - 2:00 PM <br />
+                  WhatsApp: +91 6307 967 606 (Available for quick queries)
                 </p>
               </CardFooter>
             </Card>
