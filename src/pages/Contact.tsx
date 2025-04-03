@@ -93,8 +93,8 @@ const Contact = () => {
                   </div>
                   <h3 className="font-semibold text-lg mb-2">Support</h3>
                   <p className="text-gray-600">
-                    Email: contact@pathwayguide.com <br />
-                    Phone: +91 9876 543 210 <br />
+                    Email: karanj96108@gmail.com <br />
+                    Phone: +91 6307 967 606 <br />
                     WhatsApp: Available for quick queries
                   </p>
                 </CardContent>
