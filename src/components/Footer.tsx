@@ -1,5 +1,5 @@
 import React from "react";
-import { GraduationCap, Facebook, Twitter, Instagram, Linkedin, Mail } from "lucide-react";
+import { GraduationCap, Facebook, Twitter, Instagram, Linkedin, Mail, Phone } from "lucide-react";
 import { Link } from "react-router-dom";
 
 const Footer = () => {
@@ -95,6 +95,12 @@ const Footer = () => {
               <Mail className="h-5 w-5 text-counseling-300" />
               <a href="mailto:karanj96108@gmail.com" className="text-counseling-200 hover:text-white transition-colors">
                 karanj96108@gmail.com
+              </a>
+            </div>
+            <div className="flex items-center space-x-3 mb-3">
+              <Phone className="h-5 w-5 text-counseling-300" />
+              <a href="tel:+916307967606" className="text-counseling-200 hover:text-white transition-colors">
+                +91 6307 967 606
               </a>
             </div>
             <p className="text-counseling-300">
