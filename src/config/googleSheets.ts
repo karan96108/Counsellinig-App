@@ -1,4 +1,4 @@
-export const GOOGLE_SHEETS_API_URL = 'https://script.google.com/macros/s/AKfycbyPW4ZowxVvCCNe729BaNadPX5UuINC_D7xLg82IvVRJNYKmZQDBsZA-rHdvDDa1MS-/exec';
+export const GOOGLE_SHEETS_API_URL = import.meta.env.VITE_GOOGLE_SHEETS_API_URL;
 
 export interface ContactFormData {
   name: string;
